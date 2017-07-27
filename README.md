@@ -9,3 +9,5 @@
 - [X] Windows PHP Binaries
 - [ ] Linux PHP Binaries
 - [ ] MacOS PHP Binaries
+
+**These Binaries are precompiled with OpenSSL ;)**<br />**So, You can Use Leveryl's XBoxAuth with it. :D**
